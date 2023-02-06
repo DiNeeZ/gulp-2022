@@ -1,1 +1,1 @@
-console.log('components');
+// import { modal } from "./components/modal";
